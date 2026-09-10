@@ -174,15 +174,52 @@ $ focus --list
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ClaudioTorrez777&show_icons=true&hide_border=true&bg_color=0d0208&title_color=00fff2&icon_color=ff00c8&text_color=8b8ba7&border_color=00fff2&cache_seconds=86400" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&hide_border=true&background=0D0208&stroke=00fff2&ring=ff00c8&fire=ff00c8&currStreakLabel=00fff2&sideLabels=8b8ba7&currStreakNum=ffffff&sideNums=8b8ba7&dates=8b8ba7" alt="Racha de commits"/>
 
 </div>
 
 <div align="center">
-<sub style="color:#8b8ba7">Si esta tarjeta no carga: es la instancia pública de <code>github-readme-stats</code> saturada por rate limit, no tu README — <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own" style="color:#00fff2">deployar tu propia instancia en Vercel</a> lo resuelve de forma permanente.</sub>
+<sub style="color:#8b8ba7">La tarjeta de stats generales se quitó: la instancia pública de <code>github-readme-stats</code> está saturada por rate limit y no carga. Para una versión propia y confiable, ver la nota al final de este README sobre el workflow <code>lowlighter/metrics</code>.</sub>
 
 </div>
+
+<br>
+
+<br>
+
+<details>
+<summary><b style="color:#8b8ba7">λ Cómo generar tu propia stats card confiable (opcional)</b></summary>
+<br>
+
+En **Settings → Developer settings → Personal access tokens** crea un token clásico sin scopes extra, guárdalo como secret `METRICS_TOKEN` en tu repo `ClaudioTorrez777/ClaudioTorrez777` (**Settings → Secrets and variables → Actions**), y agrega este workflow en `.github/workflows/metrics.yml`:
+
+```yaml
+name: Metrics
+on:
+  schedule: [{cron: "0 */6 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.svg
+          base: header, activity, community, repositories
+          config_timezone: America/Mexico_City
+```
+
+Esto genera `metrics.svg` directamente en tu repo (igual que ya pasa con el snake), sin depender de la instancia pública caída. Una vez que corra, referencia la imagen en el README con:
+
+```md
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/metrics.svg" />
+```
+
+</details>
 
 <br>
 
