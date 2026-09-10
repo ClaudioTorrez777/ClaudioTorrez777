@@ -70,8 +70,7 @@
   <table>
     <tr>
       <td align="left">
-        <b>> PGD — Sistema Inteligente de Análisis de Encuestas Ciudadanas</b><br/>
-        Plataforma cívica para el IPDP de la CDMX. Procesamiento cualitativo con embeddings (500K+ registros), pipelines de documentos con AWS Textract y Bedrock Nova Lite, y optimización cartográfica de alto rendimiento.
+        <b>> No los puse porque no quise xddddddd.
       </td>
     </tr>
   </table>
