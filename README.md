@@ -1,7 +1,7 @@
-# ⚡ [ CLAUDIO TORREZ DE PAZ ] 👾
+# C:\CLAUDIO_TORREZ\PROFILE> _👾
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=SYS_ENGINEER+%2F%2F_FULL_STACK_DEV;CLOUD_INFRASTRUCTURE+%2F%2F_AI_%26_RAG;BUILDING_SCALABLE_SAAS_SOLUTIONS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=SYS_ENGINEER+%3E%3E_FULL_STACK_DEV;CLOUD_INFRASTRUCTURE+%3E%3E_AI_%26_RAG;BUILDING_SCALABLE_SAAS_SOLUTIONS" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,10 +9,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <h3>🕹️ // SYSTEM.OVERVIEW</h3>
-        <p><code>Ingeniero en Sistemas Computacionales</code> especializado en conectar arquitectura cloud, bases de datos robustas y sistemas de inteligencia artificial orientados a producción. Entusiasta del desarrollo de SaaS y de entender el funcionamiento interno del software.</p>
-        <p><em>> "Construir software no es solamente escribir código; es convertir problemas en soluciones."</em></p>
+      <td align="left">
+        <pre><code>C:\SYSTEM\INFO> initializing profile...
+> Role: Ingeniero en Sistemas Computacionales
+> Focus: Arquitectura Cloud, Backend robusto, Bases de datos e IA aplicada.
+> Filosofía: "Construir software no es solamente escribir código; es convertir problemas en soluciones."</code></pre>
       </td>
     </tr>
   </table>
@@ -21,9 +22,9 @@
 ---
 
 <div align="center">
-  <h3>🛠️ // TECH_STACK_DATABASE</h3>
+  <h3>> [ TECH_STACK_DATABASE ]</h3>
   
-  <table border="0" cellspacing="10" cellpadding="5">
+  <table>
     <tr>
       <td align="left"><b>[ FRONTEND ]</b></td>
       <td align="left">
@@ -65,7 +66,7 @@
 ---
 
 <div align="center">
-  <h3>🚀 // FEATURED_PROJECTS</h3>
+  <h3>> [ FEATURED_PROJECTS ]</h3>
   
   <table>
     <tr>
@@ -86,20 +87,18 @@
 ---
 
 <div align="center">
-  <h3>📊 // GITHUB_ANALYTICS</h3>
-  <a href="https://github.com/ClaudioTorrez777">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudioTorrez777&theme=tokyonight" alt="Perfil de GitHub de Claudio" />
-  </a>
+  <h3>> [ GITHUB_ANALYTICS ]</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioTorrez777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=ClaudioTorrez777%20Stats" alt="Estadísticas de Claudio" width="100%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&theme=tokyonight&hide_border=true&background=1a1b26" alt="Racha de commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&theme=tokyonight&hide_border=true&background=1a1b26" alt="Racha de commits" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>🐍 // ACTIVITY_LOG</h3>
+  <h3>> [ ACTIVITY_LOG ]</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake.svg">
