@@ -1,36 +1,44 @@
-
-
-Readme · MD
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=18&pause=1200&color=00FFF2&center=true&vCenter=true&width=820&lines=CLAUDIO_TORREZ_DE_PAZ" alt="Nombre" />
+
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/name-glitch.svg" alt="Claudio Torrez de Paz" width="560" />
+
 <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=24&pause=1600&color=FF00C8&center=true&vCenter=true&width=820&lines=Ingeniero+en+Sistemas+Computacionales;Full-Stack+%2F%2F+Cloud+%2F%2F+IA+aplicada;%3E+STATUS%3A+ONLINE_" alt="Rol" />
+
 </div>
+
 <br>
+
 <table align="center" border="1" bordercolor="#00fff2" cellpadding="14" cellspacing="0" width="100%">
 <tr bgcolor="#0d0208">
 <td>
+
 <code style="color:#ff00c8">●</code>&nbsp;<code style="color:#00fff2">●</code>&nbsp;<code style="color:#39ff14">●</code>&nbsp;&nbsp;<b style="color:#8b8ba7">claudio@kallix:~$</b>
- 
+
 <pre><code style="color:#00fff2">$ whoami
 &gt;&gt; Claudio Torrez de Paz
 &gt;&gt; Ingeniero en Sistemas Computacionales
+
 $ cat philosophy.log
 &gt;&gt; "Construir software no es solo escribir código:
 &gt;&gt;  es hackear el sistema para doblar la realidad."
+
 $ focus --list
 &gt;&gt; arquitectura_cloud
 &gt;&gt; backend_robusto
 &gt;&gt; bases_de_datos
 &gt;&gt; ia_aplicada</code></pre>
- 
+
 </td>
 </tr>
 </table>
+
 <br>
+
 <div align="center">
 <b style="color:#ff00c8">λ</b> <b style="color:#00fff2">TECH_STACK.SYS</b>
 </div>
 <br>
+
 <table align="center" border="1" bordercolor="#00fff2" cellpadding="10" cellspacing="0" width="100%">
 <tr bgcolor="#0d0208">
 <td width="180"><b style="color:#00fff2">[ FRONTEND ]</b></td>
@@ -67,12 +75,15 @@ $ focus --list
 </td>
 </tr>
 </table>
+
 <br>
+
 <div align="center">
 <b style="color:#00fff2">λ</b> <b style="color:#ff00c8">KALLIX_SQUAD.PROC</b>
 <br><i style="color:#8b8ba7">"No entregamos proyectos: desplegamos software que opera 24/7."</i>
 </div>
 <br>
+
 <table align="center" border="1" bordercolor="#ff00c8" cellpadding="12" cellspacing="0" width="100%">
 <tr bgcolor="#0d0208">
 <td width="40"><code style="color:#39ff14">0x01</code></td>
@@ -113,11 +124,14 @@ $ focus --list
 </td>
 </tr>
 </table>
+
 <br>
+
 <div align="center">
 <b style="color:#ff00c8">λ</b> <b style="color:#00fff2">PERSONAL_LAB /</b>
 </div>
 <br>
+
 <table align="center" border="1" bordercolor="#00fff2" cellpadding="12" cellspacing="0" width="100%">
 <tr bgcolor="#0d0208">
 <td>
@@ -150,16 +164,28 @@ $ focus --list
 </td>
 </tr>
 </table>
+
 <br>
+
 <div align="center">
 <b style="color:#00fff2">λ</b> <b style="color:#ff00c8">METRICS.DAT</b>
 </div>
 <br>
+
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ClaudioTorrez777&show_icons=true&hide_border=true&bg_color=0d0208&title_color=00fff2&icon_color=ff00c8&text_color=8b8ba7&ring_color=00fff2" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ClaudioTorrez777&show_icons=true&hide_border=true&bg_color=0d0208&title_color=00fff2&icon_color=ff00c8&text_color=8b8ba7&border_color=00fff2&cache_seconds=86400" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&hide_border=true&background=0D0208&stroke=00fff2&ring=ff00c8&fire=ff00c8&currStreakLabel=00fff2&sideLabels=8b8ba7&currStreakNum=ffffff&sideNums=8b8ba7&dates=8b8ba7" alt="Racha de commits"/>
+
 </div>
+
+<div align="center">
+<sub style="color:#8b8ba7">Si esta tarjeta no carga: es la instancia pública de <code>github-readme-stats</code> saturada por rate limit, no tu README — <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own" style="color:#00fff2">deployar tu propia instancia en Vercel</a> lo resuelve de forma permanente.</sub>
+
+</div>
+
 <br>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake-dark.svg">
@@ -167,8 +193,11 @@ $ focus --list
   <img alt="Actividad" src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
 <br>
+
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=20&pause=2000&color=39FF14&center=true&vCenter=true&width=600&lines=connection_established_%3A%3A_end_of_transmission_" alt="Cierre" />
+
 </div>
- 
