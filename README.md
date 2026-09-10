@@ -87,21 +87,16 @@
 ---
 
 <div align="center">
-  <h3>> [ GITHUB_ANALYTICS ]</h3>
+  <h3>> [ GITHUB_METRICS ]</h3>
   
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioTorrez777&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7" alt="Top Lenguajes" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ClaudioTorrez777&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Estadísticas de GitHub" />
-      </td>
-    </tr>
-  </table>
-  
+  <p>
+    <img src="https://img.shields.io/badge/GitHub-Contributions-1f2430?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Active_Developer-00FF66?style=for-the-badge&logo=terminal&logoColor=black" />
+    <img src="https://img.shields.io/badge/Core-Java_%7C_Python_%7C_Angular-blue?style=for-the-badge" />
+  </p>
+
   <br>
-  
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&theme=tokyonight&hide_border=true&background=1a1b26" alt="Racha de commits" />
 </div>
 
