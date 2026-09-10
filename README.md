@@ -1,7 +1,7 @@
 # C:\CLAUDIO_TORREZ\PROFILE> _👾
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=SYS_ENGINEER+%3E%3E_FULL_STACK_DEV;STARTUP_BUILDER+%3E%3E_AUDIO_%26_AI;GAMING_%26_COMMUNITY_PROJECTS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=SYS_ENGINEER+%3E%3E_FULL_STACK_DEV;KALLIX_STARTUP_BUILDER+%3E%3E_AUDIO_%26_AI;GAMING_%26_COMMUNITY_PROJECTS" alt="Typing SVG" />
 </div>
 
 ---
@@ -74,10 +74,52 @@
         Plataforma cívica para el IPDP de la CDMX. Procesamiento cualitativo con embeddings (500K+ registros), pipelines de documentos con AWS Textract y Bedrock Nova Lite, y optimización cartográfica de alto rendimiento.
       </td>
     </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h3>> [ KALLIX_STARTUP & CORE_TEAM ]</h3>
+  <p><i>"No entregamos proyectos: entregamos software que alguien va a usar todos los días."</i></p>
+
+  <table>
     <tr>
       <td align="left">
-        <b>> Kallix & Kaso — Startup & Arquitectura Empresarial</b><br/>
-        Co-creador y desarrollador en la startup <b>Kallix</b> (colaborando junto al equipo en <a href="ENLACE_GITHUB_COMPANERO_1">@Compañero1</a> y <a href="ENLACE_GITHUB_COMPANERO_2">@Compañero2</a>). Desarrollo de plataformas de gestión jurídica, sistemas corporativos y modernización de soluciones con Spring Boot, Angular y Oracle APEX.
+        <b>💻 Claudio (Tú) — Full Stack & Cloud</b><br/>
+        Frontend · Backend · Procesamiento de datos<br/>
+        <i>"La mitad del trabajo es convertir lo que ya existe —papeles, hojas de cálculo, correos— en datos con los que el sistema pueda trabajar."</i><br/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>📱 <a href="https://github.com/PatricioTorrez">Patricio (@PatricioTorrez)</a> — Mobile Dev</b><br/>
+        Aplicaciones móviles · Desarrollo offline<br/>
+        <i>"Apps móviles para entornos financieros: operan sin conexión y sincronizan después con los sistemas web vía APIs."</i><br/>
+        <img src="https://img.shields.io/badge/Mobile-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>⚙️ <a href="https://github.com/jesussolorzano01">Jesús (@jesussolorzano01)</a> — Backend & Web</b><br/>
+        Sistemas web · APIs · Gestión de información<br/>
+        <i>"Detrás de una pantalla simple hay reglas que no perdonan: permisos, saldos, cobranza."</i><br/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>🤖 <a href="https://github.com/magallon51">Francisco (@magallon51)</a> — IA & ChatBots</b><br/>
+        Inteligencia artificial · Automatización<br/>
+        <i>"Un bot útil no es el que habla bonito: es el que busca el dato correcto y hace algo con él."</i><br/>
+        <img src="https://img.shields.io/badge/AI_Bots-CC6699?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Automation-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </td>
     </tr>
   </table>
