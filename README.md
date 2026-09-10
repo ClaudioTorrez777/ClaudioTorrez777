@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <h3>> [ TECH_STACK_DATABASE ]</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=22&pause=2000&color=33FF66&center=true&vCenter=true&width=600&lines=%3E+%5B+TECH_STACK_DATABASE+%5D" alt="Tech Stack Title" />
   
   <table>
     <tr>
@@ -65,12 +65,12 @@
 ---
 
 <div align="center">
-  <h3>> [ PROFESSIONAL_PROJECTS ]</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=22&pause=2000&color=33FF66&center=true&vCenter=true&width=600&lines=%3E+%5B+PROFESSIONAL_PROJECTS+%5D" alt="Professional Projects Title" />
   
   <table>
     <tr>
       <td align="left">
-        <b>> No los puse porque no quise xddddddd.
+        <b>> No los puse porque no quise xddddddd.</b>
       </td>
     </tr>
   </table>
@@ -79,7 +79,7 @@
 ---
 
 <div align="center">
-  <h3>> [ KALLIX_STARTUP & CORE_TEAM ]</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=22&pause=2000&color=33FF66&center=true&vCenter=true&width=600&lines=%3E+%5B+KALLIX_STARTUP_%26_CORE_TEAM+%5D" alt="Kallix Title" />
   <p><i>"No entregamos proyectos: entregamos software que alguien va a usar todos los días."</i></p>
 
   <table>
@@ -127,7 +127,7 @@
 ---
 
 <div align="center">
-  <h3>> [ PERSONAL_LAB & ECOSYSTEM ]</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=22&pause=2000&color=33FF66&center=true&vCenter=true&width=600&lines=%3E+%5B+PERSONAL_LAB_%26_ECOSYSTEM+%5D" alt="Personal Lab Title" />
   
   <table>
     <tr>
@@ -166,7 +166,7 @@
 ---
 
 <div align="center">
-  <h3>> [ GITHUB_METRICS ]</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=22&pause=2000&color=33FF66&center=true&vCenter=true&width=600&lines=%3E+%5B+GITHUB_METRICS+%5D" alt="GitHub Metrics Title" />
   
   <p>
     <img src="https://img.shields.io/badge/GitHub-Contributions-1f2430?style=for-the-badge&logo=github&logoColor=white" />
@@ -182,7 +182,7 @@
 ---
 
 <div align="center">
-  <h3>> [ ACTIVITY_LOG ]</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=22&pause=2000&color=33FF66&center=true&vCenter=true&width=600&lines=%3E+%5B+ACTIVITY_LOG+%5D" alt="Activity Log Title" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake.svg">
