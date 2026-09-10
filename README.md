@@ -50,12 +50,13 @@ Ingeniero en Sistemas Computacionales y desarrollador de software enfocado en cr
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioTorrez777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de Claudio" />
+  <a href="https://github.com/ClaudioTorrez777">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudioTorrez777&theme=tokyonight" alt="Perfil de GitHub de Claudio" />
+  </a>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&theme=tokyonight&hide_border=true" alt="Racha de commits" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&theme=tokyonight&hide_border=true&background=1a1b26" alt="Racha de commits" />
 
 ---
 
