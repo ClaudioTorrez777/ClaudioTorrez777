@@ -32,11 +32,11 @@ Soy desarrollador de software enfocado en crear soluciones eficientes, desde el 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioTorrez777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Estadísticas de Claudio" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioTorrez777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&v=1" alt="Estadísticas de Claudio" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&theme=tokyonight&hide_border=true&background=1a1b26" alt="Racha de commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&theme=tokyonight&hide_border=true&background=1a1b26&v=1" alt="Racha de commits" />
 </div>
 
 ---
