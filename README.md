@@ -1,7 +1,7 @@
 # C:\CLAUDIO_TORREZ\PROFILE> _👾
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=SYS_ENGINEER+%3E%3E_FULL_STACK_DEV;CLOUD_INFRASTRUCTURE+%3E%3E_AI_%26_RAG;BUILDING_SCALABLE_SAAS_SOLUTIONS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=SYS_ENGINEER+%3E%3E_FULL_STACK_DEV;STARTUP_BUILDER+%3E%3E_AUDIO_%26_AI;GAMING_%26_COMMUNITY_PROJECTS" alt="Typing SVG" />
 </div>
 
 ---
@@ -50,7 +50,6 @@
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
         <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -66,7 +65,7 @@
 ---
 
 <div align="center">
-  <h3>> [ FEATURED_PROJECTS ]</h3>
+  <h3>> [ PROFESSIONAL_PROJECTS ]</h3>
   
   <table>
     <tr>
@@ -77,8 +76,47 @@
     </tr>
     <tr>
       <td align="left">
-        <b>> SaaS & Arquitectura Empresarial (Kaso / Sistemas Corporativos)</b><br/>
-        Desarrollo de plataformas de gestión jurídica y modernización de soluciones de cotización y pólizas con Spring Boot, Angular y Oracle APEX.
+        <b>> Kallix & Kaso — Startup & Arquitectura Empresarial</b><br/>
+        Co-creador y desarrollador en la startup <b>Kallix</b> (colaborando junto al equipo en <a href="ENLACE_GITHUB_COMPANERO_1">@Compañero1</a> y <a href="ENLACE_GITHUB_COMPANERO_2">@Compañero2</a>). Desarrollo de plataformas de gestión jurídica, sistemas corporativos y modernización de soluciones con Spring Boot, Angular y Oracle APEX.
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h3>> [ PERSONAL_LAB & ECOSYSTEM ]</h3>
+  
+  <table>
+    <tr>
+      <td align="left">
+        <b>🎵 Kora (Hi-Fi Audio Player)</b><br/>
+        Reproductor de música de alta fidelidad optimizado para exprimir al máximo la claridad de voces e instrumentos con ecualización avanzada.
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>📥 CaTTune (Music Downloader Suite)</b><br/>
+        Herramienta utilitaria diseñada para la gestión y descarga eficiente de librerías musicales.
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>🗳️ Competencia de Rolitas Chavalinezcas</b><br/>
+        Plataforma web de votación en tiempo real (Node.js & Socket.io) para las dinámicas musicales del grupo de amigos "Los Chavalines".
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>📜 "La rata con Thinner" — Lore & Storytelling</b><br/>
+        Creador de universos narrativos y narrador de historias de este icónico proyecto de ficción y humor.
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b><img src="https://img.shields.io/badge/Minecraft-383838?style=flat-square&logo=minecraft&logoColor=539E43"/> Minecraftero & 🐱 Domador de Gatos Salvajes</b><br/>
+        Superviviente experto de bloques y arquitecto de servidores, además de domador oficial de felinos domésticos y salvajes en la vida real.
       </td>
     </tr>
   </table>
