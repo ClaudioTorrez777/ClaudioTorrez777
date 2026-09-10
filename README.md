@@ -88,13 +88,21 @@
 
 <div align="center">
   <h3>> [ GITHUB_ANALYTICS ]</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioTorrez777&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Lenguajes" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ClaudioTorrez777&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Estadísticas de GitHub" width="48%" />
-  </p>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&theme=tokyonight&hide_border=true&background=1a1b26" alt="Racha de commits" width="97%" />
+  
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioTorrez777&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7" alt="Top Lenguajes" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ClaudioTorrez777&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Estadísticas de GitHub" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&theme=tokyonight&hide_border=true&background=1a1b26" alt="Racha de commits" />
 </div>
 
 ---
