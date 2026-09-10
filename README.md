@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/name-glitch.svg" alt="Claudio Torrez de Paz" width="560" />
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/name-glitch.svg" alt="Claudio Torrez de Paz" width="700" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=24&pause=1600&color=FF00C8&center=true&vCenter=true&width=820&lines=Ingeniero+en+Sistemas+Computacionales;Full-Stack+%2F%2F+Cloud+%2F%2F+IA+aplicada;%3E+STATUS%3A+ONLINE_" alt="Rol" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=24&pause=1600&color=FF00C8&center=true&vCenter=true&width=900&lines=Ingeniero+en+Sistemas+Computacionales;Full-Stack+%2F%2F+Cloud+%2F%2F+IA+aplicada;%3E+STATUS%3A+ONLINE_" alt="Rol" />
 
 </div>
 
@@ -39,18 +39,16 @@ $ focus --list
 </div>
 <br>
 
-<table align="center" border="1" bordercolor="#00fff2" cellpadding="10" cellspacing="0" width="100%">
+<table align="center" border="1" bordercolor="#00fff2" cellpadding="14" cellspacing="0" width="100%">
 <tr bgcolor="#0d0208">
-<td width="180"><b style="color:#00fff2">[ FRONTEND ]</b></td>
-<td>
+<td width="50%" valign="top">
+<b style="color:#00fff2">[ FRONTEND ]</b><br/><br/>
 <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00fff2"/>
 </td>
-</tr>
-<tr bgcolor="#0a0014">
-<td><b style="color:#ff00c8">[ BACKEND_&_AI ]</b></td>
-<td>
+<td width="50%" valign="top">
+<b style="color:#ff00c8">[ BACKEND_&_AI ]</b><br/><br/>
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff00c8"/>
 <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=ff00c8"/>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff00c8"/>
@@ -58,18 +56,16 @@ $ focus --list
 <img src="https://img.shields.io/badge/AI_%26_RAG-000000?style=for-the-badge&logo=openai&logoColor=ff00c8"/>
 </td>
 </tr>
-<tr bgcolor="#0d0208">
-<td><b style="color:#00fff2">[ CLOUD_&_DATA ]</b></td>
-<td>
+<tr bgcolor="#0a0014">
+<td width="50%" valign="top">
+<b style="color:#00fff2">[ CLOUD_&_DATA ]</b><br/><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00fff2"/>
 </td>
-</tr>
-<tr bgcolor="#0a0014">
-<td><b style="color:#ff00c8">[ DEVOPS_&_OS ]</b></td>
-<td>
+<td width="50%" valign="top">
+<b style="color:#ff00c8">[ DEVOPS_&_OS ]</b><br/><br/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff00c8"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff00c8"/>
 </td>
@@ -84,40 +80,32 @@ $ focus --list
 </div>
 <br>
 
-<table align="center" border="1" bordercolor="#ff00c8" cellpadding="12" cellspacing="0" width="100%">
+<table align="center" border="1" bordercolor="#ff00c8" cellpadding="14" cellspacing="0" width="100%">
 <tr bgcolor="#0d0208">
-<td width="40"><code style="color:#39ff14">0x01</code></td>
-<td>
-<b style="color:#00fff2">Claudio (tú)</b> — <span style="color:#8b8ba7">Full Stack & Cloud</span><br/>
+<td width="50%" valign="top">
+<code style="color:#39ff14">0x01</code>&nbsp;<b style="color:#00fff2">Claudio (tú)</b> — <span style="color:#8b8ba7">Full Stack & Cloud</span><br/>
 <i style="color:#8b8ba7">"La mitad del trabajo es convertir basura digital —papeles, hojas de cálculo, correos— en flujos de datos limpios."</i><br/>
 <img src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=00fff2"/>
 </td>
-</tr>
-<tr bgcolor="#0a0014">
-<td><code style="color:#39ff14">0x02</code></td>
-<td>
-<b style="color:#ff00c8"><a href="https://github.com/PatricioTorrez" style="color:#ff00c8">Patricio (@PatricioTorrez)</a></b> — <span style="color:#8b8ba7">Mobile Dev</span><br/>
+<td width="50%" valign="top">
+<code style="color:#39ff14">0x02</code>&nbsp;<b style="color:#ff00c8"><a href="https://github.com/PatricioTorrez" style="color:#ff00c8">Patricio (@PatricioTorrez)</a></b> — <span style="color:#8b8ba7">Mobile Dev</span><br/>
 <i style="color:#8b8ba7">"Apps móviles para entornos críticos: operan sin red y sincronizan vía APIs con el mainframe."</i><br/>
 <img src="https://img.shields.io/badge/Mobile-000000?style=flat-square&logo=flutter&logoColor=ff00c8"/>
 <img src="https://img.shields.io/badge/Oracle_APEX-000000?style=flat-square&logo=oracle&logoColor=ff00c8"/>
 </td>
 </tr>
-<tr bgcolor="#0d0208">
-<td><code style="color:#39ff14">0x03</code></td>
-<td>
-<b style="color:#00fff2"><a href="https://github.com/jesussolorzano01" style="color:#00fff2">Jesús (@jesussolorzano01)</a></b> — <span style="color:#8b8ba7">Backend & Web</span><br/>
+<tr bgcolor="#0a0014">
+<td width="50%" valign="top">
+<code style="color:#39ff14">0x03</code>&nbsp;<b style="color:#00fff2"><a href="https://github.com/jesussolorzano01" style="color:#00fff2">Jesús (@jesussolorzano01)</a></b> — <span style="color:#8b8ba7">Backend & Web</span><br/>
 <i style="color:#8b8ba7">"Detrás de una interfaz simple hay protocolos estrictos: permisos, transacciones, seguridad."</i><br/>
 <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00fff2"/>
 </td>
-</tr>
-<tr bgcolor="#0a0014">
-<td><code style="color:#39ff14">0x04</code></td>
-<td>
-<b style="color:#ff00c8"><a href="https://github.com/magallon51" style="color:#ff00c8">Francisco (@magallon51)</a></b> — <span style="color:#8b8ba7">IA & ChatBots</span><br/>
+<td width="50%" valign="top">
+<code style="color:#39ff14">0x04</code>&nbsp;<b style="color:#ff00c8"><a href="https://github.com/magallon51" style="color:#ff00c8">Francisco (@magallon51)</a></b> — <span style="color:#8b8ba7">IA & ChatBots</span><br/>
 <i style="color:#8b8ba7">"Un bot letal no es el que saluda bonito: es el que rastrea el payload exacto y ejecuta la query."</i><br/>
 <img src="https://img.shields.io/badge/AI_Bots-000000?style=flat-square&logo=openai&logoColor=ff00c8"/>
 <img src="https://img.shields.io/badge/Automation-000000?style=flat-square&logo=python&logoColor=ff00c8"/>
@@ -132,33 +120,29 @@ $ focus --list
 </div>
 <br>
 
-<table align="center" border="1" bordercolor="#00fff2" cellpadding="12" cellspacing="0" width="100%">
+<table align="center" border="1" bordercolor="#00fff2" cellpadding="14" cellspacing="0" width="100%">
 <tr bgcolor="#0d0208">
-<td>
+<td width="50%" valign="top">
 <code style="color:#39ff14">drwxr-xr-x</code>&nbsp;<b style="color:#00fff2">kora_hifi_player/</b><br/>
 <span style="color:#8b8ba7">Reproductor de música de alta fidelidad optimizado para exprimir al máximo la claridad de voces e instrumentos con DSP avanzado.</span>
 </td>
-</tr>
-<tr bgcolor="#0a0014">
-<td>
+<td width="50%" valign="top">
 <code style="color:#39ff14">drwxr-xr-x</code>&nbsp;<b style="color:#ff00c8">cattune_downloader/</b><br/>
 <span style="color:#8b8ba7">Suite para extracción y gestión optimizada de librerías de audio en alta resolución.</span>
 </td>
 </tr>
-<tr bgcolor="#0d0208">
-<td>
+<tr bgcolor="#0a0014">
+<td width="50%" valign="top">
 <code style="color:#39ff14">drwxr-xr-x</code>&nbsp;<b style="color:#00fff2">competencia_rolitas_chavalinezcas/</b><br/>
 <span style="color:#8b8ba7">Plataforma de votación en tiempo real (Node.js & Socket.io) para las dinámicas del escuadrón "Los Chavalines".</span>
 </td>
-</tr>
-<tr bgcolor="#0a0014">
-<td>
+<td width="50%" valign="top">
 <code style="color:#39ff14">-rw-r--r--</code>&nbsp;<b style="color:#ff00c8">la_rata_con_thinner.lore</b><br/>
 <span style="color:#8b8ba7">Universos narrativos, mundos distópicos e historias de culto.</span>
 </td>
 </tr>
 <tr bgcolor="#0d0208">
-<td>
+<td colspan="2" valign="top">
 <code style="color:#39ff14">drwxr-xr-x</code>&nbsp;<b style="color:#00fff2">minecraft_underworld/</b>&nbsp;<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=minecraft&logoColor=39ff14"/><br/>
 <span style="color:#8b8ba7">Veterano de servidores hardcore, constructor de bases técnicas y domador de gatos cibernéticos y salvajes.</span>
 </td>
