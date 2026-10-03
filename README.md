@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/name-glitch.svg" alt="Claudio Torrez de Paz" width="700" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=24&pause=1600&color=FF00C8&center=true&vCenter=true&width=900&lines=Ingeniero+en+Sistemas+Computacionales;Full-Stack+%2F%2F+Cloud+%2F%2F+IA+aplicada;%3E+STATUS%3A+ONLINE_" alt="Rol" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=24&pause=1600&color=FF00C8&center=true&vCenter=true&width=900&lines=Ingeniero+en+Sistemas+Computacionales;Android Develop+%2F%2F+Cloud+%2F%2F+IA+aplicada;%3E+STATUS%3A+ONLINE_" alt="Rol" />
 
 </div>
 
