@@ -12,21 +12,23 @@
 <tr bgcolor="#0d0208">
 <td>
 
-<code style="color:#ff00c8">●</code>&nbsp;<code style="color:#00fff2">●</code>&nbsp;<code style="color:#39ff14">●</code>&nbsp;&nbsp;<b style="color:#8b8ba7">claudio@kallix:~$</b>
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/spacer.svg" width="1000" height="1" alt=""/><br/>
 
-<pre><code style="color:#00fff2">$ whoami
-&gt;&gt; Claudio Torrez de Paz
-&gt;&gt; Ingeniero en Sistemas Computacionales
+<code style="color:#ff00c8">●</code> <code style="color:#00fff2">●</code> <code style="color:#39ff14">●</code>
 
-$ cat philosophy.log
-&gt;&gt; "Construir software no es solo escribir código:
-&gt;&gt;  es hackear el sistema para doblar la realidad."
+  
 
-$ focus --list
-&gt;&gt; arquitectura_cloud
-&gt;&gt; backend_robusto
-&gt;&gt; bases_de_datos
-&gt;&gt; ia_aplicada</code></pre>
+<b style="color:#8b8ba7">claudio@kallix:~$</b>
+
+<pre><code style="color:#00fff2">$ whoami >> Claudio Torrez de Paz >> Ingeniero en Sistemas Computacionales
+
+$ cat philosophy.log >> "Construir software no es solo escribir código:
+>>  es hackear el sistema para doblar la realidad."
+
+$ focus --list >> arquitectura_cloud
+>> backend_robusto
+>> bases_de_datos
+>> ia_aplicada</code></pre>
 
 </td>
 </tr>
@@ -35,153 +37,338 @@ $ focus --list
 <br>
 
 <div align="center">
+
 <b style="color:#ff00c8">λ</b> <b style="color:#00fff2">TECH_STACK.SYS</b>
+
 </div>
+
 <br>
 
 <table align="center" border="1" bordercolor="#00fff2" cellpadding="26" cellspacing="0" width="100%">
+
 <tr bgcolor="#0d0208">
+
 <td width="50%" valign="top" align="center">
-<b style="color:#00fff2">[ FRONTEND ]</b><br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="52" height="52" alt="Angular" title="Angular"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="52" height="52" alt="Flutter" title="Flutter"/>&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/spacer.svg" width="500" height="1" alt=""/><br/>
+
+<b style="color:#00fff2">[ FRONTEND ]</b>
+
+<br/><br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="52" height="52" alt="Angular" title="Angular"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="52" height="52" alt="Flutter" title="Flutter"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="52" height="52" alt="TypeScript" title="TypeScript"/>
-<br/><sub style="color:#8b8ba7">Angular · Flutter · TypeScript</sub>
+
+<br/>
+
+<sub style="color:#8b8ba7">Angular · Flutter · TypeScript</sub>
+
 </td>
+
 <td width="50%" valign="top" align="center">
-<b style="color:#ff00c8">[ BACKEND_&_AI ]</b><br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="52" height="52" alt="Java" title="Java"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="52" height="52" alt="Spring Boot" title="Spring Boot"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python" title="Python"/>&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/spacer.svg" width="500" height="1" alt=""/><br/>
+
+<b style="color:#ff00c8">[ BACKEND_&_AI ]</b>
+
+<br/><br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="52" height="52" alt="Java" title="Java"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="52" height="52" alt="Spring Boot" title="Spring Boot"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python" title="Python"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="52" height="52" alt="FastAPI" title="FastAPI"/>
-<br/><sub style="color:#8b8ba7">Java · Spring Boot · Python · FastAPI</sub><br/><br/>
+
+<br/>
+
+<sub style="color:#8b8ba7">Java · Spring Boot · Python · FastAPI</sub>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/AI_%26_RAG-000000?style=for-the-badge&logo=openai&logoColor=white" height="34" alt="AI & RAG"/>
+
 </td>
+
 </tr>
+
 <tr bgcolor="#0a0014">
+
 <td width="50%" valign="top" align="center">
-<b style="color:#00fff2">[ CLOUD_&_DATA ]</b><br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="52" height="52" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="52" height="52" alt="Oracle" title="Oracle"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="52" height="52" alt="AWS" title="AWS"/>&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/spacer.svg" width="500" height="1" alt=""/><br/>
+
+<b style="color:#00fff2">[ CLOUD_&_DATA ]</b>
+
+<br/><br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="52" height="52" alt="PostgreSQL" title="PostgreSQL"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="52" height="52" alt="Oracle" title="Oracle"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="52" height="52" alt="AWS" title="AWS"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="52" height="52" alt="Docker" title="Docker"/>
-<br/><sub style="color:#8b8ba7">PostgreSQL · Oracle · AWS · Docker</sub>
+
+<br/>
+
+<sub style="color:#8b8ba7">PostgreSQL · Oracle · AWS · Docker</sub>
+
 </td>
+
 <td width="50%" valign="top" align="center">
-<b style="color:#ff00c8">[ DEVOPS_&_OS ]</b><br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" alt="Git" title="Git"/>&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/spacer.svg" width="500" height="1" alt=""/><br/>
+
+<b style="color:#ff00c8">[ DEVOPS_&_OS ]</b>
+
+<br/><br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" alt="Git" title="Git"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="52" height="52" alt="Linux" title="Linux"/>
-<br/><sub style="color:#8b8ba7">Git · Linux</sub>
+
+<br/>
+
+<sub style="color:#8b8ba7">Git · Linux</sub>
+
 </td>
+
 </tr>
+
 </table>
+
 <br>
 
 <div align="center">
+
 <b style="color:#00fff2">λ</b> <b style="color:#ff00c8">KALLIX_SQUAD.PROC</b>
-<br><i style="color:#8b8ba7">"No entregamos proyectos: desplegamos software que opera 24/7."</i>
+
+<br>
+
+<i style="color:#8b8ba7">"No entregamos proyectos: desplegamos software que opera 24/7."</i>
+
 </div>
+
 <br>
 
 <table align="center" border="1" bordercolor="#ff00c8" cellpadding="14" cellspacing="0" width="100%">
+
 <tr bgcolor="#0d0208">
+
 <td width="50%" valign="top">
-<code style="color:#39ff14">0x01</code>&nbsp;<b style="color:#00fff2">Claudio (tú)</b> — <span style="color:#8b8ba7">Full Stack & Cloud</span><br/>
-<i style="color:#8b8ba7">"La mitad del trabajo es convertir basura digital —papeles, hojas de cálculo, correos— en flujos de datos limpios."</i><br/>
+
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/spacer.svg" width="500" height="1" alt=""/><br/>
+
+<code style="color:#39ff14">0x01</code>
+  <b style="color:#00fff2">Claudio (tú)</b> — <span style="color:#8b8ba7">Full Stack & Cloud</span>
+
+<br/>
+
+<i style="color:#8b8ba7">"La mitad del trabajo es convertir basura digital —papeles, hojas de cálculo, correos— en flujos de datos limpios."</i>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=00fff2"/>
+
 </td>
+
 <td width="50%" valign="top">
-<code style="color:#39ff14">0x02</code>&nbsp;<b style="color:#ff00c8"><a href="https://github.com/PatricioTorrez" style="color:#ff00c8">Patricio (@PatricioTorrez)</a></b> — <span style="color:#8b8ba7">Mobile Dev</span><br/>
-<i style="color:#8b8ba7">"Apps móviles para entornos críticos: operan sin red y sincronizan vía APIs con el mainframe."</i><br/>
+
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/spacer.svg" width="500" height="1" alt=""/><br/>
+
+<code style="color:#39ff14">0x02</code>
+  <b style="color:#ff00c8"> <a href="https://github.com/PatricioTorrez" style="color:#ff00c8">Patricio (@PatricioTorrez)</a> </b> — <span style="color:#8b8ba7">Mobile Dev</span>
+
+<br/>
+
+<i style="color:#8b8ba7">"Apps móviles para entornos críticos: operan sin red y sincronizan vía APIs con el mainframe."</i>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Mobile-000000?style=flat-square&logo=flutter&logoColor=ff00c8"/>
 <img src="https://img.shields.io/badge/Oracle_APEX-000000?style=flat-square&logo=oracle&logoColor=ff00c8"/>
+
 </td>
+
 </tr>
+
 <tr bgcolor="#0a0014">
+
 <td width="50%" valign="top">
-<code style="color:#39ff14">0x03</code>&nbsp;<b style="color:#00fff2"><a href="https://github.com/jesussolorzano01" style="color:#00fff2">Jesús (@jesussolorzano01)</a></b> — <span style="color:#8b8ba7">Backend & Web</span><br/>
-<i style="color:#8b8ba7">"Detrás de una interfaz simple hay protocolos estrictos: permisos, transacciones, seguridad."</i><br/>
+
+<code style="color:#39ff14">0x03</code>
+  <b style="color:#00fff2"> <a href="https://github.com/jesussolorzano01" style="color:#00fff2">Jesús (@jesussolorzano01)</a> </b> — <span style="color:#8b8ba7">Backend & Web</span>
+
+<br/>
+
+<i style="color:#8b8ba7">"Detrás de una interfaz simple hay protocolos estrictos: permisos, transacciones, seguridad."</i>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00fff2"/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00fff2"/>
+
 </td>
+
 <td width="50%" valign="top">
-<code style="color:#39ff14">0x04</code>&nbsp;<b style="color:#ff00c8"><a href="https://github.com/magallon51" style="color:#ff00c8">Francisco (@magallon51)</a></b> — <span style="color:#8b8ba7">IA & ChatBots</span><br/>
-<i style="color:#8b8ba7">"Un bot letal no es el que saluda bonito: es el que rastrea el payload exacto y ejecuta la query."</i><br/>
+
+<code style="color:#39ff14">0x04</code>
+  <b style="color:#ff00c8"> <a href="https://github.com/magallon51" style="color:#ff00c8">Francisco (@magallon51)</a> </b> — <span style="color:#8b8ba7">IA & ChatBots</span>
+
+<br/>
+
+<i style="color:#8b8ba7">"Un bot letal no es el que saluda bonito: es el que rastrea el payload exacto y ejecuta la query."</i>
+
+<br/>
+
 <img src="https://img.shields.io/badge/AI_Bots-000000?style=flat-square&logo=openai&logoColor=ff00c8"/>
 <img src="https://img.shields.io/badge/Automation-000000?style=flat-square&logo=python&logoColor=ff00c8"/>
+
 </td>
+
 </tr>
+
 </table>
 
 <br>
 
 <div align="center">
+
 <b style="color:#ff00c8">λ</b> <b style="color:#00fff2">PERSONAL_LAB /</b>
+
 </div>
+
 <br>
 
 <table align="center" border="1" bordercolor="#00fff2" cellpadding="14" cellspacing="0" width="100%">
+
 <tr bgcolor="#0d0208">
+
 <td width="50%" valign="top">
-<code style="color:#39ff14">drwxr-xr-x</code>&nbsp;<b style="color:#00fff2">kora_hifi_player/</b><br/>
+
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/spacer.svg" width="500" height="1" alt=""/><br/>
+
+<code style="color:#39ff14">drwxr-xr-x</code>
+  <b style="color:#00fff2">kora_hifi_player/</b>
+
+<br/>
+
 <span style="color:#8b8ba7">Reproductor de música de alta fidelidad optimizado para exprimir al máximo la claridad de voces e instrumentos con DSP avanzado.</span>
+
 </td>
+
 <td width="50%" valign="top">
-<code style="color:#39ff14">drwxr-xr-x</code>&nbsp;<b style="color:#ff00c8">cattune_downloader/</b><br/>
+
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/spacer.svg" width="500" height="1" alt=""/><br/>
+
+<code style="color:#39ff14">drwxr-xr-x</code>
+  <b style="color:#ff00c8">cattune_downloader/</b>
+
+<br/>
+
 <span style="color:#8b8ba7">Suite para extracción y gestión optimizada de librerías de audio en alta resolución.</span>
+
 </td>
+
 </tr>
+
 <tr bgcolor="#0a0014">
+
 <td width="50%" valign="top">
-<code style="color:#39ff14">drwxr-xr-x</code>&nbsp;<b style="color:#00fff2">competencia_rolitas_chavalinezcas/</b><br/>
+
+<code style="color:#39ff14">drwxr-xr-x</code>
+  <b style="color:#00fff2">competencia_rolitas_chavalinezcas/</b>
+
+<br/>
+
 <span style="color:#8b8ba7">Plataforma de votación en tiempo real (Node.js & Socket.io) para las dinámicas del escuadrón "Los Chavalines".</span>
+
 </td>
+
 <td width="50%" valign="top">
-<code style="color:#39ff14">-rw-r--r--</code>&nbsp;<b style="color:#ff00c8">la_rata_con_thinner.lore</b><br/>
+
+<code style="color:#39ff14">-rw-r--r--</code>
+  <b style="color:#ff00c8">la_rata_con_thinner.lore</b>
+
+<br/>
+
 <span style="color:#8b8ba7">Universos narrativos, mundos distópicos e historias de culto.</span>
+
 </td>
+
 </tr>
+
 <tr bgcolor="#0d0208">
+
 <td colspan="2" valign="top">
-<code style="color:#39ff14">drwxr-xr-x</code>&nbsp;<b style="color:#00fff2">minecraft_underworld/</b>&nbsp;<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=minecraft&logoColor=39ff14"/><br/>
+
+<code style="color:#39ff14">drwxr-xr-x</code>
+  <b style="color:#00fff2">minecraft_underworld/</b>
+
+ 
+
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=minecraft&logoColor=39ff14"/>
+
+<br/>
+
 <span style="color:#8b8ba7">Veterano de servidores hardcore, constructor de bases técnicas y domador de gatos cibernéticos y salvajes.</span>
+
 </td>
+
 </tr>
+
 </table>
 
 <br>
 
 <div align="center">
+
 <b style="color:#00fff2">λ</b> <b style="color:#ff00c8">METRICS.DAT</b>
+
 </div>
+
 <br>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&hide_border=true&background=0D0208&stroke=00fff2&ring=ff00c8&fire=ff00c8&currStreakLabel=00fff2&sideLabels=8b8ba7&currStreakNum=ffffff&sideNums=8b8ba7&dates=8b8ba7" alt="Racha de commits"/>
+<img
+height="165"
+src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&hide_border=true&background=0D0208&stroke=00fff2&ring=ff00c8&fire=ff00c8&currStreakLabel=00fff2&sideLabels=8b8ba7&currStreakNum=ffffff&sideNums=8b8ba7&dates=8b8ba7"
+alt="Racha de commits"
+/>
 
 </div>
 
 <div align="center">
+
 <sub style="color:#8b8ba7">La tarjeta de stats generales se quitó: la instancia pública de <code>github-readme-stats</code> está saturada por rate limit y no carga. Para una versión propia y confiable, ver la nota al final de este README sobre el workflow <code>lowlighter/metrics</code>.</sub>
 
 </div>
 
 <br>
-
 <br>
 
 <details>
-<summary><b style="color:#8b8ba7">λ Cómo generar tu propia stats card confiable (opcional)</b></summary>
+
+<summary>
+<b style="color:#8b8ba7">λ Cómo generar tu propia stats card confiable (opcional)</b>
+</summary>
+
 <br>
 
 En **Settings → Developer settings → Personal access tokens** crea un token clásico sin scopes extra, guárdalo como secret `METRICS_TOKEN` en tu repo `ClaudioTorrez777/ClaudioTorrez777` (**Settings → Secrets and variables → Actions**), y agrega este workflow en `.github/workflows/metrics.yml`:
 
 ```yaml
 name: Metrics
+
 on:
   schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
@@ -190,6 +377,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -211,17 +399,31 @@ Esto genera `metrics.svg` directamente en tu repo (igual que ya pasa con el snak
 <br>
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake.svg">
-  <img alt="Actividad" src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="Actividad"
+    src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake.svg"
+  >
 </picture>
+
 </div>
 
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=20&pause=2000&color=39FF14&center=true&vCenter=true&width=600&lines=connection_established_%3A%3A_end_of_transmission_" alt="Cierre" />
+<img
+src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=20&pause=2000&color=39FF14&center=true&vCenter=true&width=600&lines=connection_established_%3A%3A_end_of_transmission_"
+alt="Cierre"
+/>
 
 </div>
