@@ -39,39 +39,42 @@ $ focus --list
 </div>
 <br>
 
-<table align="center" border="1" bordercolor="#00fff2" cellpadding="14" cellspacing="0" width="100%">
+<table align="center" border="1" bordercolor="#00fff2" cellpadding="26" cellspacing="0" width="100%">
 <tr bgcolor="#0d0208">
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 <b style="color:#00fff2">[ FRONTEND ]</b><br/><br/>
-<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=00fff2"/>
-<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00fff2"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00fff2"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="52" height="52" alt="Angular" title="Angular"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="52" height="52" alt="Flutter" title="Flutter"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="52" height="52" alt="TypeScript" title="TypeScript"/>
+<br/><sub style="color:#8b8ba7">Angular · Flutter · TypeScript</sub>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 <b style="color:#ff00c8">[ BACKEND_&_AI ]</b><br/><br/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff00c8"/>
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=ff00c8"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff00c8"/>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ff00c8"/>
-<img src="https://img.shields.io/badge/AI_%26_RAG-000000?style=for-the-badge&logo=openai&logoColor=ff00c8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="52" height="52" alt="Java" title="Java"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="52" height="52" alt="Spring Boot" title="Spring Boot"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python" title="Python"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="52" height="52" alt="FastAPI" title="FastAPI"/>
+<br/><sub style="color:#8b8ba7">Java · Spring Boot · Python · FastAPI</sub><br/><br/>
+<img src="https://img.shields.io/badge/AI_%26_RAG-000000?style=for-the-badge&logo=openai&logoColor=white" height="34" alt="AI & RAG"/>
 </td>
 </tr>
 <tr bgcolor="#0a0014">
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 <b style="color:#00fff2">[ CLOUD_&_DATA ]</b><br/><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00fff2"/>
-<img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=00fff2"/>
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00fff2"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00fff2"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="52" height="52" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="52" height="52" alt="Oracle" title="Oracle"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="52" height="52" alt="AWS" title="AWS"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="52" height="52" alt="Docker" title="Docker"/>
+<br/><sub style="color:#8b8ba7">PostgreSQL · Oracle · AWS · Docker</sub>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 <b style="color:#ff00c8">[ DEVOPS_&_OS ]</b><br/><br/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff00c8"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff00c8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52" alt="Git" title="Git"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="52" height="52" alt="Linux" title="Linux"/>
+<br/><sub style="color:#8b8ba7">Git · Linux</sub>
 </td>
 </tr>
 </table>
-
 <br>
 
 <div align="center">
