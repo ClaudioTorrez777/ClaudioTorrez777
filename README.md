@@ -7,24 +7,44 @@
 
 <img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/name-glitch.svg" alt="Claudio Torrez de Paz" width="700" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=26&pause=1200&color=FF00C8&center=true&vCenter=true&width=900&lines=%5B+INSERT+COIN+%5D+%3E+%3E+%3E+PRESS+START_;PLAYER+1+%3A%3A+CLAUDIO+TORREZ+DE+PAZ;Ingeniero+en+Sistemas+Computacionales;Android+Dev+%2F%2F+Cloud+%2F%2F+IA+aplicada;%3E+STATUS%3A+ONLINE_" alt="Rol" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=26&pause=1200&color=FF00C8&center=true&vCenter=true&width=900&lines=PLAYER+1+%3A%3A+CLAUDIO+TORREZ+DE+PAZ;Ingeniero+en+Sistemas+Computacionales;Android+Dev+%2F%2F+Cloud+%2F%2F+IA+aplicada;%3E+STATUS%3A+ONLINE_" alt="Rol" />
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🕹️ INSERT COIN — CABINA DE ARCADE                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<!-- Animación de la cabina arcade -->
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/insert-coin.gif" width="520" alt="Arcade Cabinet" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:ff00c8,100:0d0208&height=40&text=%E2%96%B6%20INSERT%20COIN%20TO%20CONTINUE%20%E2%97%80&fontSize=20&fontColor=ffffff&animation=twinkling" />
+<!-- Texto parpadeante en fuente arcade real (Press Start 2P) -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=900&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=%E2%96%B6+INSERT+COIN+%E2%97%80;%E2%98%85+PRESS+START+%E2%98%85;%E2%96%B6+CONTINUE%3F+%5BY%2FN%5D+%E2%97%80;%E2%98%85+1+PLAYER++%7C++2+PLAYERS+%E2%98%85" alt="Insert Coin — Press Start" />
 
 <br>
 
-<img src="https://img.shields.io/badge/PLAYER_1-ff00c8?style=for-the-badge&labelColor=0d0208" />
-<img src="https://img.shields.io/badge/LIVES_x3-ff0055?style=for-the-badge&labelColor=0d0208" />
-<img src="https://img.shields.io/badge/CREDITS_%E2%88%9E-ffd700?style=for-the-badge&labelColor=0d0208" />
-<img src="https://img.shields.io/badge/LVL_42-39ff14?style=for-the-badge&labelColor=0d0208" />
+<!-- Panel de control arcade -->
+<img src="https://img.shields.io/badge/%F0%9F%AA%99_CREDIT-ffd700?style=for-the-badge&labelColor=0d0208" />
+<img src="https://img.shields.io/badge/%E2%96%B6_PLAYER_1-ff00c8?style=for-the-badge&labelColor=0d0208" />
+<img src="https://img.shields.io/badge/%E2%96%B6_PLAYER_2-00fff2?style=for-the-badge&labelColor=0d0208" />
+<img src="https://img.shields.io/badge/START-39ff14?style=for-the-badge&labelColor=0d0208" />
 
-<br>
+<br><br>
 
+<!-- Estado del jugador -->
 <code>HP ████████████████████░ 92%</code>
 &nbsp;<code>XP ██████████████░░░░░ 68%</code>
 &nbsp;<code>MP ████████░░░░░░░░░░░ 41%</code>
+
+<br><br>
+
+<sub><code>▲ ▲ ▼ ▼ ◀ ▶ ◀ ▶ B A</code> &nbsp;·&nbsp; <i>try it</i></sub>
 
 </div>
 
@@ -292,11 +312,31 @@ La stats card general se quitó por rate limit de <code>github-readme-stats</cod
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🐱 NYAN CAT — LEVEL CLEAR                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/nyan-cat.gif" width="380" alt="Nyan Cat — level cleared" />
+
+<br>
+
+<sub><i>// level_cleared :: all_bosses_defeated //</i></sub>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- 🏁 GAME OVER                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:8b5cf6,100:00fff2&height=120&section=footer&text=GAME%20OVER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=20&pause=1800&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+CONTINUE%3F+%5BY%2FN%5D_;%3E+INSERT+COIN+TO+PLAY+AGAIN_;%3E+cheat_code%3A+%E2%86%91%E2%86%91%E2%86%93%E2%86%93%E2%86%90%E2%86%92%E2%86%90%E2%86%92BA_;%3E+connection_established_%3A%3A_end_of_transmission_" alt="Cierre" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1800&color=39FF14&center=true&vCenter=true&width=800&height=40&lines=%3E+CONTINUE%3F+%5BY%2FN%5D_;%3E+INSERT+COIN+TO+PLAY+AGAIN_;%3E+connection_established_%3A%3A_end_of_transmission_" alt="Cierre" />
 
 </div>
 
@@ -338,87 +378,3 @@ Una vez que corra, referencia la imagen en el README con:
 ```
 
 </details>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🎁 EXTRAS OPCIONALES — descomenta si quieres más caña retro gamer 🎁     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--
-════════════════════════════════════════════════════════════════════════
-OPCIÓN A · HEADER PIXEL-ART (descomenta para reemplazar el capsule de arriba)
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/pixel-header.gif" alt="Pixel Header" width="100%" />
-</div>
-
-════════════════════════════════════════════════════════════════════════
-OPCIÓN B · GIF DE PAC-MAN antes de la sección HIGH_SCORES
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/pacman.gif" width="200" alt="Pac-Man" />
-</div>
-
-════════════════════════════════════════════════════════════════════════
-OPCIÓN C · GIF DE SPACE INVADERS antes de la sección SAVE_FILES
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/invaders.gif" width="300" alt="Space Invaders" />
-</div>
-
-════════════════════════════════════════════════════════════════════════
-OPCIÓN D · ACTIVITY GRAPH CON TEMA RETRO (agrega bajo HIGH_SCORES)
-
-<div align="center">
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ClaudioTorrez777&bg_color=0d0208&color=00fff2&line=ff00c8&point=39ff14&area=true&hide_border=true&custom_title=ACTIVITY.LOG"
-  alt="Activity Graph"
-/>
-</div>
-
-════════════════════════════════════════════════════════════════════════
-OPCIÓN E · BOSS BATTLE BAR (agrega como bloque colapsable al final)
-
-<details>
-<summary><b>👹 BOSS_BATTLE :: KALLIX_PROJECT</b></summary>
-
-<br>
-
-<div align="center">
-
-`████████████████░░░░░░░░░░░░░░░░ 55% HP`
-
-🔥 **KALLIX** está en fase **2/3** — deploy en producción
-
-⚔️ **Party:** Claudio · Patricio · Jesús · Francisco
-💎 **Loot esperado:** MVP funcional + dashboard + chatbot RAG
-
-</div>
-
-</details>
-
-════════════════════════════════════════════════════════════════════════
--->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ASCII ART BUILT-IN (por si quieres copiarlo a mano en algún lado)       -->
-<!--                                                                          -->
-<!--   PAC-MAN:                                                               -->
-<!--      ▄████▄                                                              -->
-<!--    ▄████████▄                                                            -->
-<!--   ████    ████                                                           -->
-<!--  ███        ██                                                           -->
-<!--  ███  ▄▄    ██                                                           -->
-<!--  ███  ▀▀    ██                                                           -->
-<!--   ████    ████                                                           -->
-<!--    ▀████████▀                                                            -->
-<!--      ▀████▀                                                              -->
-<!--                                                                          -->
-<!--   SPACE INVADER:                                                         -->
-<!--    ▄   ▄                                                                 -->
-<!--   ▄██▄██▄                                                                -->
-<!--  █████████                                                               -->
-<!--  ██ ███ ██                                                               -->
-<!--  █████████                                                               -->
-<!--    █   █                                                                 -->
-<!--   █ █ █ █                                                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
