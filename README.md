@@ -6,23 +6,11 @@
 <!--horizontal divider (gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/main/assets/name-glitch.svg" alt="Claudio Torrez de Paz" width="700" />
-
-</div>
-
 <!--h1 sin borde inferior-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy Claudio</h1></summary>
   </ul>
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=26&pause=1200&color=FF00C8&center=true&vCenter=true&width=900&lines=PLAYER+1+%3A%3A+CLAUDIO+TORREZ+DE+PAZ;Ingeniero+en+Sistemas+Computacionales;Android+Dev+%2F%2F+Cloud+%2F%2F+IA+aplicada;%3E+STATUS%3A+ONLINE_" alt="Rol" />
-
 </div>
 
 <!-- ═══════════════════════════ DELIVERY PIPELINE ═══════════════════════════ -->
@@ -43,7 +31,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=900&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=%E2%96%B6+INSERT+COIN+%E2%97%80;%E2%98%85+PRESS+START+%E2%98%85;%E2%96%B6+CONTINUE%3F+%5BY%2FN%5D+%E2%97%80;%E2%98%85+1+PLAYER++%7C++2+PLAYERS+%E2%98%85" alt="Insert Coin — Press Start" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=900&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=%E2%96%B6+INSERT+COIN+%E2%97%80;%E2%98%85+PRESS+START+%E2%98%85;%E2%98%85+1+PLAYER++%7C++2+PLAYERS+%E2%98%85" alt="Insert Coin — Press Start" />
 
 <br>
 
@@ -54,8 +42,7 @@
 
 <br><br>
 
-<code>HP ████████████████████░ 92%</code>
-&nbsp;<code>XP ██████████████░░░░░ 68%</code>
+<code>XP ██████████████░░░░░ 68%</code>
 &nbsp;<code>MP ████████░░░░░░░░░░░ 41%</code>
 
 <br><br>
@@ -72,49 +59,27 @@
   </ul>
 </div>
 
-<pre><code>PLAYER     = Claudio Torrez de Paz
-ROLE       = Ingeniero en Sistemas Computacionales
-CLASS      = Full Stack · Android Dev · Cloud · IA aplicada
-SQUAD      = Kallix
-STATUS     = ONLINE — connection_established</code></pre>
+<pre><code>ROLE    = Ingeniero en Sistemas Computacionales
+CLASS   = Android Dev · Cloud · IA aplicada
+STATUS  = ONLINE — connection_established</code></pre>
 
-```bash
-$ cat philosophy.log
-> "Construir software no es solo escribir código:
->  es hackear el sistema para doblar la realidad."
-
-$ focus --list
-> arquitectura_cloud
-> backend_robusto
-> bases_de_datos
-> ia_aplicada
-```
-
-- 🔭 Enfocado en **arquitectura cloud, backend robusto, bases de datos e IA aplicada**
-- 📱 Desarrollo **Android / Flutter** y frontends en **Angular + TypeScript**
-- 🧠 Backend con **Java · Spring Boot · Python · FastAPI**, y soluciones de **IA & RAG**
-- 👾 Player 1 del escuadrón **Kallix** — software que opera 24/7
-- ⛏️ Veterano de servidores hardcore de **Minecraft**
+- 💬 *"Construir software no es solo escribir código: es hackear el sistema para doblar la realidad."*
+- ☁️ Enfocado en **arquitectura cloud**
+- 🧱 Construyendo **backend robusto**
+- 🗄️ Diseñando **bases de datos**
+- 🧠 Aplicando **IA** a problemas reales
 
 <!-- ═══════════════════════════ UPTIME IN MOTION ═══════════════════════════ -->
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">▸ 🐍 Uptime in motion ◂</h2></summary>
+    <summary><h2 style="display: inline-block">▸ 📡 Uptime in motion ◂</h2></summary>
   </ul>
 </div>
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=claudiotorrez777&theme=github-dark" alt="claudiotorrez777 contribution activity" />
 </p>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake game — actividad de contribuciones" src="https://raw.githubusercontent.com/ClaudioTorrez777/ClaudioTorrez777/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
 
 <!-- ═══════════════════════════ SERVICE SIGNALS / HIGH SCORES ═══════════════════════════ -->
 
@@ -124,20 +89,9 @@ $ focus --list
   </ul>
 </div>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=claudiotorrez777&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90883807%3Fu%3D0e89bc283e869be47ad91ebb1017cccb0a358dde%26v%3D4" alt="claudiotorrez777 stats visual" />
-
-</td>
-<td width="50%" align="center">
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioTorrez777&hide_border=true&background=0D0208&stroke=00fff2&ring=ff00c8&fire=ff00c8&currStreakLabel=00fff2&sideLabels=8b8ba7&currStreakNum=ffffff&sideNums=8b8ba7&dates=8b8ba7" alt="Racha de commits" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=claudiotorrez777&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90883807%3Fu%3D0e89bc283e869be47ad91ebb1017cccb0a358dde%26v%3D4" alt="claudiotorrez777 stats visual" />
+</p>
 
 <div align="center">
   <img width="84%" src="https://github-profile-trophy.vercel.app/?username=ClaudioTorrez777&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
@@ -232,55 +186,17 @@ $ focus --list
 
 <p align="center"><code>claudiotorrez777@github:~$ toolbox --list</code></p>
 
-<table align="center" width="100%" border="1" bordercolor="#00fff2" cellpadding="20" cellspacing="0">
-<tr bgcolor="#0d0208">
-<td align="center" width="50%">
-
-**🎨 [ FRONTEND ]**
-
-<img src="https://skillicons.dev/icons?i=angular,flutter,ts&theme=dark" />
-
-<sub>Angular · Flutter · TypeScript</sub>
-
-</td>
-<td align="center" width="50%">
-
-**🧠 [ BACKEND_&_AI ]**
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark" />
-
-<sub>Java · Spring Boot · Python · FastAPI</sub>
-
-<br>
-
-<img src="https://img.shields.io/badge/AI_%26_RAG-000000?style=for-the-badge&logo=openai&logoColor=00fff2" />
-
-</td>
-</tr>
-<tr bgcolor="#0a0014">
-<td align="center" width="50%">
-
-**☁️ [ CLOUD_&_DATA ]**
-
-<img src="https://skillicons.dev/icons?i=postgres,oracle,aws,docker&theme=dark" />
-
-<sub>PostgreSQL · Oracle · AWS · Docker</sub>
-
-</td>
-<td align="center" width="50%">
-
-**🛠️ [ DEVOPS_&_OS ]**
-
-<img src="https://skillicons.dev/icons?i=git,linux&theme=dark" />
-
-<sub>Git · Linux</sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,flutter,ts,java,spring,python,fastapi,postgres,oracle,aws,docker,git,linux&theme=dark&perline=13" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/AI_%26_RAG-000000?style=for-the-badge&logo=openai&logoColor=00fff2" />
+</p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=claudiotorrez777&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90883807%3Fu%3D0e89bc283e869be47ad91ebb1017cccb0a358dde%26v%3D4" alt="claudiotorrez777 stack visual" />
+<sub>🎨 <b>Frontend</b> Angular · Flutter · TypeScript &nbsp;|&nbsp; 🧠 <b>Backend & AI</b> Java · Spring Boot · Python · FastAPI<br>
+☁️ <b>Cloud & Data</b> PostgreSQL · Oracle · AWS · Docker &nbsp;|&nbsp; 🛠️ <b>DevOps & OS</b> Git · Linux</sub>
 </p>
 
 <!-- ═══════════════════════════ KEEP IT MOVING ═══════════════════════════ -->
@@ -293,10 +209,6 @@ $ focus --list
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=claudiotorrez777&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90883807%3Fu%3D0e89bc283e869be47ad91ebb1017cccb0a358dde%26v%3D4" alt="claudiotorrez777 social visual" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ClaudioTorrez777"><img src="https://img.shields.io/badge/GitHub-0d0208?style=for-the-badge&logo=github&logoColor=00fff2" /></a>
 </p>
 
 <div align="center">
